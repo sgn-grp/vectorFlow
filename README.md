@@ -48,7 +48,9 @@ Unity (Tested with Unity 2D Physics)
 
 # Usage
 The Circle prefab in Assets/Prefabs must be attached to the rg public member in objects class.
+
 The simulation can be run by:
+
 	- importing project in unity
 	- setting parameters
 	- playing the scene
